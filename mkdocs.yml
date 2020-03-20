@@ -1,4 +1,5 @@
 site_name: Mass Spec Coronavirus Public Data
+edit_uri: https://github.com/mwang87/MassSpec-Coronavirus-Project-Docs/blob/master/docs/
 nav:
     - Introduction: index.md
     - Metabolomics: metabolomics.md
