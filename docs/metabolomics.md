@@ -33,7 +33,7 @@ Relative Quantitative Analysis
 This API data is a tall tabular csv file with feature and sample metadata pulled into it. It is readily plotable in tools like ggplot2 (R) and plotnine (python). You can read it into your software in a single line:
 
 ```
-pd.read_csv(https://proteomics3.ucsd.edu/ProteoSAFe/DownloadResultFile?task=3ed2ee9297ed47f09b42825370895ee9&file=feature_statistics/data_long.csv)
+pd.read_csv("https://proteomics3.ucsd.edu/ProteoSAFe/DownloadResultFile?task=3ed2ee9297ed47f09b42825370895ee9&file=feature_statistics/data_long.csv")
 ```
 
 ### Preliminary Results
