@@ -39,6 +39,11 @@ Example Feature 8378 across different time points of infection:
 ![](images/metabolomics/8378_pos.png)
 ![](images/metabolomics/8378_line_pos.png)
 
+Molecular Network - highlighting significant features in MOCK (purple) vs iMERS
+
+![](images/metabolomics/pos_network.png)
+
+Download entire network [here](data/MSV000083535-pos.cys)
 
 ### Data Processing Methods
 
