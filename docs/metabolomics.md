@@ -37,6 +37,7 @@ Positive Ionization Results - [sorted by p-value between mock and MERS](https://
 Example Feature 8378 across different time points of infection:
 
 ![](images/metabolomics/8378_pos.png)
+![](images/metabolomics/8378_line_pos.png)
 
 
 ### Data Processing Methods
