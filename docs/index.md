@@ -26,3 +26,18 @@ These data from [Thomas O. Metz's Lab](https://www.pnnl.gov/science/staff/staff_
 ## Proteomics Data
 
 Nuno Bandeira's group is working to analyze public Proteomics data related to SARS-CoV-2. 
+
+
+## Contributing Data
+
+To add your own data, we recommend you upload your datasets to a mass spectrometry repository. The following are great resources:
+
+1. [MassIVE](https://massive.ucsd.edu/ProteoSAFe/static/massive.jsp) - For Proteomics/Metabolomics Data
+1. [PRIDE](https://www.ebi.ac.uk/pride/archive/) - For Proteomics Data
+1. [Metabolights](https://www.ebi.ac.uk/metabolights/) - For Metabolomics Data
+
+We highly encourage you deposit along with it sample metadata, this includes experimental design and sample conditions (e.g. case vs control). 
+
+## Contributing Analyses
+
+If you would like to contribute insights on this data or new data that is not included here, please see our [GitHub repository](https://github.com/mwang87/MassSpec-Coronavirus-Project-Docs) and feel free to submit a pull request that we can merge in. 
