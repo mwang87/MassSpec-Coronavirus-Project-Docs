@@ -6,4 +6,4 @@ nav:
     - Proteomics: proteomics.md
 theme:
     name: material
-#google_analytics: ['UA-8412213-5', 'ccms-ucsd.github.io']
+google_analytics: ['UA-8412213-10', 'mwang87.github.io']
