@@ -12,7 +12,7 @@ To add your own data, we recommend you upload your datasets to a mass spectromet
 1. [PRIDE](https://www.ebi.ac.uk/pride/archive/) - For Proteomics Data
 1. [Metabolights](https://www.ebi.ac.uk/metabolights/) - For Metabolomics Data
 
-We highly encourage you deposit along with it sample metadata, this includes experimental design and sample conditions (e.g. case vs control). 
+We highly encourage you deposit along with it sample metadata, this includes experimental design and sample conditions (e.g. case vs control). For metabolomics, we recommend the [ReDU Template](https://ccms-ucsd.github.io/GNPSDocumentation/metadata/#format) and please add additional columns for your particular experimental design. 
 
 Other coronavirus related datasets can be found [here](https://massive.ucsd.edu/ProteoSAFe/corona-mass-kb-datasets.jsp#%7B%22query%22%3A%7B%7D%2C%22table_sort_history%22%3A%22createdMillis_dsc%22%2C%22keywords_input%22%3A%22CoronaMassKB%22%7D).
 
