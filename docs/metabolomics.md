@@ -14,7 +14,6 @@ These data from [Thomas O. Metz's Lab](https://www.pnnl.gov/science/staff/staff_
 
 ### Initial Metabolomics Analysis 
 
-
 Qualitative Analysis 
 
 
@@ -24,12 +23,23 @@ Qualitative Analysis
 | MSV000083535 |  [Classical Molecular Networking](https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=bf38981e2a644febaf0ff7120d0f5ec2)    | 
 
 
-Feature Detection
+Relative Quantitative Analysis
 
-| Dataset | Feature Detection | FBMN |
-|-------------|------|-----------|
-| MSV000083535 - Positive Data |  [Analysis](https://proteomics2.ucsd.edu/ProteoSAFe/status.jsp?task=91d37d9207d244fda93fd33d8b9417a0)    |   [Analysis](https://proteomics2.ucsd.edu/ProteoSAFe/status.jsp?task=ea52b0d79c0c4b55a31c2a6454fb9fb5) |
-| MSV000083535 - Negative Data |  [Analysis](https://proteomics2.ucsd.edu/ProteoSAFe/status.jsp?task=9c46288f9c754bd5931fed17414db7b4)    |   [Analysis](https://proteomics2.ucsd.edu/ProteoSAFe/status.jsp?task=3ed2ee9297ed47f09b42825370895ee9) |
+| Dataset | Feature Detection | FBMN | Data API |
+|-------------|------|-----------|----------|
+| MSV000083535 - Positive Data |  [Analysis](https://proteomics3.ucsd.edu/ProteoSAFe/status.jsp?task=91d37d9207d244fda93fd33d8b9417a0)    |   [Analysis](https://proteomics3.ucsd.edu/ProteoSAFe/status.jsp?task=ea52b0d79c0c4b55a31c2a6454fb9fb5) | [API](https://proteomics2.ucsd.edu/ProteoSAFe/DownloadResultFile?task=ea52b0d79c0c4b55a31c2a6454fb9fb5&file=feature_statistics/data_long.csv) |
+| MSV000083535 - Negative Data |  [Analysis](https://proteomics3.ucsd.edu/ProteoSAFe/status.jsp?task=9c46288f9c754bd5931fed17414db7b4)    |   [Analysis](https://proteomics3.ucsd.edu/ProteoSAFe/status.jsp?task=3ed2ee9297ed47f09b42825370895ee9) | [API](https://proteomics2.ucsd.edu/ProteoSAFe/DownloadResultFile?task=3ed2ee9297ed47f09b42825370895ee9&file=feature_statistics/data_long.csv) |
+
+### Preliminary Results
+
+Positive Results - sorted by p-value between mock and MERS
+
+https://proteomics3.ucsd.edu/ProteoSAFe/result.jsp?task=ea52b0d79c0c4b55a31c2a6454fb9fb5&view=network_stats_selected_columns
+
+Example Feature 8378:
+
+![](images/metabolomics/8378_pos.png)
+
 
 ### Data Processing Methods
 
