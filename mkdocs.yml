@@ -1,5 +1,5 @@
 site_name: Mass Spec Coronavirus Public Data
-pages:
+nav:
     - Introduction: index.md
 theme:
     name: material
