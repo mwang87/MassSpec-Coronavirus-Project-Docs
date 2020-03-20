@@ -30,6 +30,12 @@ Relative Quantitative Analysis
 | MSV000083535 - Positive Data |  [Analysis](https://proteomics3.ucsd.edu/ProteoSAFe/status.jsp?task=91d37d9207d244fda93fd33d8b9417a0)    |   [Analysis](https://proteomics3.ucsd.edu/ProteoSAFe/status.jsp?task=ea52b0d79c0c4b55a31c2a6454fb9fb5) | [API](https://proteomics3.ucsd.edu/ProteoSAFe/DownloadResultFile?task=ea52b0d79c0c4b55a31c2a6454fb9fb5&file=feature_statistics/data_long.csv) |
 | MSV000083535 - Negative Data |  [Analysis](https://proteomics3.ucsd.edu/ProteoSAFe/status.jsp?task=9c46288f9c754bd5931fed17414db7b4)    |   [Analysis](https://proteomics3.ucsd.edu/ProteoSAFe/status.jsp?task=3ed2ee9297ed47f09b42825370895ee9) | [API](https://proteomics3.ucsd.edu/ProteoSAFe/DownloadResultFile?task=3ed2ee9297ed47f09b42825370895ee9&file=feature_statistics/data_long.csv) |
 
+This API data is a tall tabular csv file with feature and sample metadata pulled into it. It is readily plotable in tools like ggplot2 (R) and plotnine (python). You can read it into your software in a single line:
+
+```
+pd.read_csv(https://proteomics3.ucsd.edu/ProteoSAFe/DownloadResultFile?task=3ed2ee9297ed47f09b42825370895ee9&file=feature_statistics/data_long.csv)
+```
+
 ### Preliminary Results
 
 Positive Ionization Results - [sorted by p-value between mock and MERS](https://proteomics3.ucsd.edu/ProteoSAFe/result.jsp?task=ea52b0d79c0c4b55a31c2a6454fb9fb5&view=network_stats_selected_columns)
