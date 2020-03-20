@@ -32,9 +32,7 @@ Relative Quantitative Analysis
 
 ### Preliminary Results
 
-Positive Results - sorted by p-value between mock and MERS
-
-https://proteomics3.ucsd.edu/ProteoSAFe/result.jsp?task=ea52b0d79c0c4b55a31c2a6454fb9fb5&view=network_stats_selected_columns
+Positive Ionization Results - [sorted by p-value between mock and MERS](https://proteomics3.ucsd.edu/ProteoSAFe/result.jsp?task=ea52b0d79c0c4b55a31c2a6454fb9fb5&view=network_stats_selected_columns)
 
 Example Feature 8378 across different time points of infection:
 
