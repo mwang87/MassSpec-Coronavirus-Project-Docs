@@ -11,6 +11,7 @@ To add your own data, we recommend you upload your datasets to a mass spectromet
 1. [MassIVE](https://massive.ucsd.edu/ProteoSAFe/static/massive.jsp) - For Proteomics/Metabolomics Data
 1. [PRIDE](https://www.ebi.ac.uk/pride/archive/) - For Proteomics Data
 1. [Metabolights](https://www.ebi.ac.uk/metabolights/) - For Metabolomics Data
+1. [Metabolomics Workbench](https://www.metabolomicsworkbench.org/) - For Metabolomics Data
 
 We highly encourage you deposit along with it sample metadata, this includes experimental design and sample conditions (e.g. case vs control). For metabolomics, we recommend the [ReDU Template](https://ccms-ucsd.github.io/GNPSDocumentation/metadata/#format) and please add additional columns for your particular experimental design. 
 
