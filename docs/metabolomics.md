@@ -1,5 +1,9 @@
 ## Metabolomics Data
 
+Please let us know (miw023@ucsd.edu and ajarmusch@ucsd.edu) if you have any datasets for SARS-CoV2) data. We are currently analyzing MERS data below. 
+
+### MERS Lipidomics Data
+
 There are many datasets from the following publications
 
 [MPLEx: a Robust and Universal Protocol for Single-Sample Integrative Proteomic, Metabolomic, and Lipidomic Analyses](https://msystems.asm.org/content/1/3/e00043-16)
