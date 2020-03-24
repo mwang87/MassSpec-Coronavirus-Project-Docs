@@ -84,11 +84,13 @@ We have compiled the metadata from the data (here)[data/MSV000081889_81890_81891
 
 ### Initial Metabolomics Analysis 
 
-Qualitative Analysis 
+Relative Quantitative Analysis
 
 | Dataset | Analysis |
 |-------------|------|
 | MSV000081889, MSV000081890, MSV000081891 (combined) |  [Spectral Library Search](https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=632d7e1c98994d71bce1d5f95b7dfd19) |
 | MSV000081889, MSV000081890, MSV000081891 (combined) |  [Deconvolution](https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=c86fe7fc666d4d9b84e5f4f7ae4be03a)    | 
+| MSV000081889, MSV000081890, MSV000081891 (combined) |  [Network](data/gc-network.cys)    | 
+
 
 
