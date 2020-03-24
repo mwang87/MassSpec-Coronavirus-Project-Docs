@@ -1,8 +1,8 @@
-## Metabolomics Data
+# Metabolomics Data
 
 Please let us know (miw023@ucsd.edu and ajarmusch@ucsd.edu) if you have any datasets for SARS-CoV2) data. We are currently analyzing MERS data below. 
 
-### MERS Lipidomics Data
+## MERS Lipidomics Data
 
 There are many datasets from the following publications
 
@@ -66,3 +66,19 @@ We aim to imploy the following analysis pipeline:
 1. Feature Finding with MZmine2 in GNPS - Produces peak integration from data
 1. Feature Based Molecular Networking in GNPS - Produces Molecular network and spectral library matches - machine readable quantitative data
 1. Statistical Analysis and exploration via Jupyter Notebooks
+
+
+## MERS GC Data
+
+There are many datasets from the following publications
+
+[MPLEx: a Robust and Universal Protocol for Single-Sample Integrative Proteomic, Metabolomic, and Lipidomic Analyses](https://msystems.asm.org/content/1/3/e00043-16)
+
+The raw GC Metabolomics data as a start can be found in MassIVE - Primary human airway epithelial cells metabolome response to an icMERS coronavirus
+
+1. [MSV000081891](https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=6d0cbbef55524bdcb117bad2bb47f09c)
+1. [MSV000081890](https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=a267ff6313df4110a627b9f5d8ceb4a2)
+1. [MSV000081889](https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=acdc3f285856415f9d94711bd3a769d2)
+
+We have compiled the metadata from the data (here)[data/MSV000081889_81890_81891_metadata_combined_3_replicates.txt].
+
