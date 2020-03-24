@@ -16,7 +16,7 @@ The raw lipidomics data as a start can be found in MassIVE:
 
 These data from [Thomas O. Metz's Lab](https://www.pnnl.gov/science/staff/staff_info.asp?staff_num=5876) from PNNL are time course studies of the lipidome of the airway epitheleal tissue. 
 
-We have compiled the metadata from the data (here)[data/MSV000083535_metadata_combined.tsv].
+We have compiled the metadata from the data (here)[data/MSV83533_83534_83535_metadata.txt	].
 
 ### Initial Metabolomics Analysis 
 
