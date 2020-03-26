@@ -80,7 +80,7 @@ The raw GC Metabolomics data as a start can be found in MassIVE - Primary human 
 1. [MSV000081890](https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=a267ff6313df4110a627b9f5d8ceb4a2)
 1. [MSV000081889](https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=acdc3f285856415f9d94711bd3a769d2)
 
-We have compiled the metadata from the data (here)[data/MSV000081889_81890_81891_metadata_combined_3_replicates.txt].
+We have compiled the metadata from the data [here](data/MSV000081889_81890_81891_metadata_combined_3_replicates.txt).
 
 ### Initial Metabolomics Analysis 
 
