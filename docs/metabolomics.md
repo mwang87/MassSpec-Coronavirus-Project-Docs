@@ -90,9 +90,11 @@ Relative Quantitative Analysis
 
 | Dataset | Analysis |
 |-------------|------|
-| MSV000081889, MSV000081890, MSV000081891 (combined) |  [Spectral Library Search](https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=632d7e1c98994d71bce1d5f95b7dfd19) |
-| MSV000081889, MSV000081890, MSV000081891 (combined) |  [Deconvolution](https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=c86fe7fc666d4d9b84e5f4f7ae4be03a)    | 
-| MSV000081889, MSV000081890, MSV000081891 (combined) |  [Network](data/gc-network.cys)    | 
+| MSV000081889, MSV000081890, MSV000081891 (combined) - Cos0.7|  [Spectral Library Search](https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=632d7e1c98994d71bce1d5f95b7dfd19) |
+| MSV000081889, MSV000081890, MSV000081891 (combined) - Cos0.7 |  [Deconvolution](https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=c86fe7fc666d4d9b84e5f4f7ae4be03a)    | 
+| MSV000081889, MSV000081890, MSV000081891 (combined) - Cos0.7 |  [Network](data/gc-network.cys)    | 
+| MSV000081889, MSV000081890, MSV000081891 (combined) - Cos0.5|  [Spectral Library Search](https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=8cdcf51214c546ce82b73c875c4edff2) |
+| MSV000081889, MSV000081890, MSV000081891 (combined) - Cos0.5 |  [Network](data/network_cos_0_5.cys)    | 
 
 
 
