@@ -2,6 +2,8 @@
 
 Please let us know (miw023@ucsd.edu and ajarmusch@ucsd.edu) if you have any datasets for SARS-CoV2) data. We are currently analyzing MERS data below. 
 
+Page last revised on: {{ git_revision_date }}
+
 ## MERS Lipidomics Data
 
 There are many datasets from the following publications
@@ -16,7 +18,7 @@ The raw lipidomics data as a start can be found in MassIVE:
 
 These data from [Thomas O. Metz's Lab](https://www.pnnl.gov/science/staff/staff_info.asp?staff_num=5876) from PNNL are time course studies of the lipidome of the airway epitheleal tissue. 
 
-We have compiled the metadata from the data (here)[data/MSV83533_83534_83535_metadata.txt	].
+We have compiled the metadata from the data [here](data/MSV83533_83534_83535_metadata.txt).
 
 ### Initial Metabolomics Analysis 
 
