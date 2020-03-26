@@ -8,6 +8,5 @@ theme:
     name: material
 plugins:
     - search
-    - git-revision-date-localized:
-        type: timeago
+    - git-revision-date
 google_analytics: ['UA-8412213-10', 'mwang87.github.io']

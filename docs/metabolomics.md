@@ -2,6 +2,8 @@
 
 Please let us know (miw023@ucsd.edu and ajarmusch@ucsd.edu) if you have any datasets for SARS-CoV2) data. We are currently analyzing MERS data below. 
 
+Page last revised on: {{ git_revision_date }}
+
 ## MERS Lipidomics Data
 
 There are many datasets from the following publications
