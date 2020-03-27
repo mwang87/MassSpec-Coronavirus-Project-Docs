@@ -20,3 +20,5 @@ Other coronavirus related datasets can be found [here](https://massive.ucsd.edu/
 ## Contributing Analyses
 
 If you would like to contribute insights on this data or new data that is not included here, please see our [GitHub repository](https://github.com/mwang87/MassSpec-Coronavirus-Project-Docs) and feel free to submit a pull request that we can merge in. 
+
+We would also like to refer analyses that are complete and ready for publication, to publish the results in our public knowledgebase for coronavirus available [here](https://massive.ucsd.edu/ProteoSAFe/static/corona-mass-kb.jsp)
