@@ -2,7 +2,7 @@
 
 In the current global pandemic, we wanted make available mass spectrometry based analysis of SARS-CoV-2 and related coronavirus data. Our goal is to make analyses of these data available in machine readable and human explorable formats. 
 
-You can find analyses and data for [proteomics](proteomics.md) and [metabolomics](metabolomics.md). 
+You can find analyses and data for [metabolomics](metabolomics.md). 
 
 ## Contributing Data
 
