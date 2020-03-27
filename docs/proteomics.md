@@ -1,4 +1,3 @@
 ## Proteomics Data
 
-Nuno Bandeira's group is working to analyze public Proteomics data related to SARS-CoV-2. 
-
+You can find public proteomics analyses [here](https://massive.ucsd.edu/ProteoSAFe/static/corona-mass-kb.jsp).
