@@ -10,6 +10,27 @@ Page last revised on: {{ git_revision_date }}
 The RAW data can be found here. 
 [MSV000085373](https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=6a068dcd8be34d54a5865cfedc1a9183)
 
+with metadata found [here](ftp://massive.ucsd.edu/MSV000085373/updates/2020-05-12_mwang87_8e51e7d6/metadata/gnps_metadata.tsv).
+
+### Feature Detection
+
+We used this MZmine2 [batch file](docs/data/MicroOTOF_MZmineParameters-v2.53_COVID19_test3.xml). 
+
+### Feature Based Molecular Networking
+
+The Feature Based Molecular Networking Job can be found [here](https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=1f7942f6ac67449db34daa34159305e7).
+
+Here is a high level molecular network analysis...
+
+Lorem Ipsum...
+
+### PCoA Analysis
+
+Lorem Ipsum...
+
+### Statistical Analysis
+
+Lorem Ipsum...
 
 
 
