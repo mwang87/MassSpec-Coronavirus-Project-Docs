@@ -10,7 +10,7 @@ Page last revised on: {{ git_revision_date }}
 The RAW data can be found here. 
 [MSV000085373](https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=6a068dcd8be34d54a5865cfedc1a9183)
 
-with metadata found [here](ftp://massive.ucsd.edu/MSV000085373/updates/2020-05-12_mwang87_8e51e7d6/metadata/gnps_metadata.tsv).
+with metadata found [here](https://massive.ucsd.edu/ProteoSAFe/result.jsp?task=6a068dcd8be34d54a5865cfedc1a9183&view=display_metadata_results&file=f.MSV000085373%2Fupdates%2F2020-05-18_mwang87_8471ecec%2Fmetadata%2Fgnps_metadata.tsv).
 
 ### Feature Detection
 
@@ -18,7 +18,7 @@ We used this MZmine2 [batch file](data/MSV000085373/MicroOTOF_MZmineParameters-v
 
 ### Feature Based Molecular Networking
 
-The Feature Based Molecular Networking Job can be found [here](https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=8542fad2a0f14aa6ba9cedaaad5ccdb4).
+The Feature Based Molecular Networking Job can be found [here](https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=ab4b457668e7454cb44091927cd14c25).
 
 Here is a high level molecular network analysis...
 
