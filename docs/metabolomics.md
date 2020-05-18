@@ -14,7 +14,7 @@ with metadata found [here](ftp://massive.ucsd.edu/MSV000085373/updates/2020-05-1
 
 ### Feature Detection
 
-We used this MZmine2 [batch file](data/MicroOTOF_MZmineParameters-v2.53_COVID19_test3.xml). 
+We used this MZmine2 [batch file](data/MSV000085373/MicroOTOF_MZmineParameters-v2.53_COVID19_test3.xml). 
 
 ### Feature Based Molecular Networking
 
