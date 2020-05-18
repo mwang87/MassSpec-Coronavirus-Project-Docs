@@ -4,6 +4,15 @@ Please let us know (miw023@ucsd.edu and ajarmusch@ucsd.edu) if you have any data
 
 Page last revised on: {{ git_revision_date }}
 
+
+## SARS-CoV-2 Metabolomics Serum Data
+
+The RAW data can be found here. 
+[MSV000085373](https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=6a068dcd8be34d54a5865cfedc1a9183)
+
+
+
+
 ## MERS Lipidomics Data
 
 There are many datasets from the following publications
